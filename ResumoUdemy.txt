@@ -1,9 +1,1 @@
- Ser um bom profissional em QA
 
-        1- Comunicação e empatia com colegas do trabalho
-        2- Muitos sites para busca em QA exemplos: Buscar Teste em qualidade no google
-        3- Mapa mental para organizar ideias
-        4- Planejamento de tarefas
-        5- Automações com as ferramentas JavaScript e Python
-        6- Utilização de tarefas de gerenciamento como Git, GitHub, Jira.
-    
