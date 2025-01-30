@@ -20,3 +20,9 @@ Scrum
 O que é Scrum?
 
 Scrum é uma metodologia ágil para desenvolvimento de projetos, baseada em ciclos curtos chamados sprints, promovendo colaboração e entrega contínua.
+
+Contato
+
+Para dúvidas ou sugestões, entre em contato pelo email: vitor-velososl@hotmail.com, https://www.linkedin.com/in/vitor-veloso-a61097217/
+
+
