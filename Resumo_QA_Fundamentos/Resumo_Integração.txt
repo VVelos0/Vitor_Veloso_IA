@@ -1,0 +1,24 @@
+Resumo sobre Test de Integração:
+
+Verificar se todos os testes feitos são compativeis uns com os outros.
+Verificar se todas as informações batem quando juntadas 
+Reportar erros se caso a compatibilidade  de testes for rejeitada
+
+Exemplos de Teste de Integração:
+Login e Cadastro ambas se conectarem como telas e darem certo.
+
+Ciclo de desenvolvimento do Software:
+
+Planejamento, Requisitos do Software, Analise de Projeto, Implementação.
+
+Planajamento de Testes, Projetar Testes, Implementar Testes, Executar Testes.
+Etapa final: Revisar os Testes.
+
+
+Test E2E: Resumo de todos os fluxos dos Testes, desde a tela de fazer cadastro até a parte de finalização
+de compras.
+
+nisso vem cada etapa e fundamentos para realização de Testes.
+Abrangência: Inclui interfaces, banco de dados, APIs, integrações e serviços externos.
+Ferramentas comuns: Cypress, Selenium, Playwright, TestCafe, entre outras
+
