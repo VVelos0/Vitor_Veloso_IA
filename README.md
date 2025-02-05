@@ -13,6 +13,7 @@ O Princípio de Pareto afirma que 80% dos resultados vêm de 20% das causas. Ess
 
 Conclusão:
 A Teoria de Myers explica como as empresas escolhem suas fontes de financiamento com base na assimetria de informação.
+
 O Princípio de Pareto mostra como uma pequena parte das causas pode gerar a maior parte dos efeitos, ajudando na priorização e gestão de recursos.
 
 Para mais informações sobre o tema contato: vitor-velososl@hotmail.com/ https://www.linkedin.com/in/vitor-veloso-a61097217/
