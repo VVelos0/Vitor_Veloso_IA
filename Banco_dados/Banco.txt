@@ -1,0 +1,17 @@
+DROP TABLE IF EXISTS produtos;
+
+
+CREATE TABLE Produtos (
+  id int PRIMARY KEY,
+  nome varchar(100) NOT NULL,
+  categoria varchar(100) NOT NULL,
+  preco float NOT NULL,
+  descricao varchar(100)
+);
+INSERT INTO produtos(id, nome, categoria, preco, descricao) VALUES (1, 'teclado gamer', 'games', 99, 'Teclado mecanico.');
+INSERT INTO produtos(id, nome, categoria, preco, descricao) VALUES (10, 'jogo', 'games', 250, 'GOD OF WAR.');
+INSERT INTO produtos(id, nome, categoria, preco, descricao) VALUES (1000, 'jogo', 'games', 0, 'demo');
+INSERT INTO produtos(id, nome, categoria, preco, descricao) VALUES (10000, 'computador', 'eletronicos', 5000, 'pc gamer.');
+INSERT INTO produtos(id, nome, categoria, preco, descricao) VALUES (100, 'jogo', 'games', 0, '');
+
+
